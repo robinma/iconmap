@@ -1,0 +1,22 @@
+{
+  "name": "iconmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinma/iconmap.git"
+  },
+  "keywords": [
+    "iconmap"
+  ],
+  "author": "ahmzj@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinma/iconmap/issues"
+  },
+  "homepage": "https://github.com/robinma/iconmap#readme"
+}
